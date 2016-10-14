@@ -1,2 +1,1 @@
-Álvaro Sánchez Vicente
-Joel Abdías León Franco
+Álvaro Sánchez Vicente y Joel León Franco
