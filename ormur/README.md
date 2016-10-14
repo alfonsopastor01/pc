@@ -1,1 +1,0 @@
-# Rosa María Ortiz Muñoz
