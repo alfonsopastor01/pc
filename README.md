@@ -2,4 +2,4 @@
 
 ## Referencias
 
-* **[Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf)**.
+* [Markdown](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf).
