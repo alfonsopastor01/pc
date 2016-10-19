@@ -19,7 +19,7 @@ print('Hola mundo')
 x = 0
 for 1 in range(10):
     x = x + 1
-    print(x)
+print(x)
 ```
 
 Lista no ordenada:
