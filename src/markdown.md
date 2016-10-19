@@ -43,4 +43,6 @@ Listas animadas:
     2. Alfonso
     3. Yeico
     
-Esto es un [enlace a una página web](https://www.google.com).
+Esto es un [enlace a una página web](https://www.google.com), también puedes .
+
+![Logo de GitHub](https://github.com/fluidicon.png "Logo Title Text 1")
