@@ -18,7 +18,7 @@ Puedo poner código en línea, `python3 codigo.py`
 print('hola mundo')
 x = 0
 for i in range(10):
-    x = x + 1
+    x = x + i
 print(x)
     
 ```
