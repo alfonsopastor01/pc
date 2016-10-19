@@ -23,3 +23,22 @@ print(x)
 ```
 
 Lista no ordenada:
+
+* Gel.
+* Pan.
+* Macarrones.
+
+Lista ordenada:
+
+1. Claudia
+2. Rouse
+3. Manu
+
+Listas animadas:
+
+1. Paula
+2. Ivette
+3. Alba
+    1.Ana
+    2.Alfonso
+    3.Yeico
