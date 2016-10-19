@@ -10,3 +10,16 @@
 
 ###### Cabecera 6
 
+Esto es texto plano.
+
+Puedo poner código en línea, `python3 codigo.py` , y código en bloque:
+
+```python
+print(`Hola mundo`)
+x = 0
+for i in ranger(10):
+    x = x+ i 
+print(x)
+```
+
+ Lista no ordenada:
