@@ -9,3 +9,8 @@
 ##### cabecera 5
 
 ###### cabecera 6
+
+Esto es un texto plano
+
+
+Puedo poner codigo en línea, `python3 codigo.py` 
