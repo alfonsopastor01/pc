@@ -14,7 +14,7 @@ Esto es tecto plano.
 
 Puedo poner código en línea, `phyton3 codigo.py` y código en bloque:
 
-```pyhon
+```python
 print('Hola mundo')
 for i in range(10):
     x = x + i
