@@ -43,6 +43,16 @@ Listas animadas:
     2. Alfonso
     3. Yeico
     
-Esto es un [enlace a una página web](https://www.google.com), también puedes .
+Esto es un [enlace a una página web](https://www.google.com), también funciona usando sólo la URL: https://github.com.
+
+También puedes insertar imágenes:
 
 ![Icono de GitHub](https://github.com/apple-touch-icon.png 'Icono de GitHub')
+
+Se pueden crear tablas:
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
