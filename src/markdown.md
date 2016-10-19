@@ -45,4 +45,4 @@ Listas animadas:
     
 Esto es un [enlace a una página web](https://www.google.com), también puedes .
 
-![Logo de GitHub](https://github.com/fluidicon.png "Logo Title Text 1")
+![Logo de GitHub](https://github.com/fluidicon.png)
