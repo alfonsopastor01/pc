@@ -36,9 +36,9 @@ Lista ordenada:
 
 Listas anidadas:
 
-1. Paula.
-2. Ivette.
-3. Alba.
-    1. Ana.
-    2. Alfonso.
-    3. Yeico.
+1. María.
+2. Iñaki.
+3. Claudia.
+    1. Yasmina.
+    2. Bea.
+    3. Rafael.
