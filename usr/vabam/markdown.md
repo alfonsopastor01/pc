@@ -9,3 +9,17 @@
 ##### Cabecera 5
 
 ###### Cabecera 6
+
+Esto es tecto plano.
+
+Puedo poner código en línea, `phyton3 codigo.py` y código en bloque:
+
+```pyhon
+print('Hola mundo')
+for i in range(10):
+    x = x + i
+print(x)
+```
+
+
+Lista no ordenada:
