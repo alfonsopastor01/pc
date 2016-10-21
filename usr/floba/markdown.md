@@ -47,3 +47,15 @@ Podemos crear enlaces a otras[páginas web como Google](http://google.com). Tamb
 http://www.marca.com/.
 
 ![Icono de Github](https://github.com/apple-touch-icon.png 'Imagen de Github')
+
+También se pueden crear tablas:
+
+| Nombre | Apellidos | Nota |
+| ------ | --------- | -----|
+| Paula  | Montiel   |   9  |
+| Yeiko  | Valenzuela|  10  |
+| Claudia| Polania   |  10  |
+
+Markdown tiene soporte para citas:
+
+> En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de los de lanza en astillero, adarga antigua, rociín y galgo corredor.
