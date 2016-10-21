@@ -49,6 +49,8 @@ Podemos crear enlaces a otras [pagínas web como Google](http://www.google.com).
 
 También se pueden crear tablas:
 
-| Nombre | Apellidos | Nota|
-|--------|-----------|-----|
-| Paula  |  Montiel  |  9  |
+| Nombre  |  Apellidos | Nota|
+|---------|------------|-----|
+|  Paula  |   Montiel  |  9  |
+|  Yeiko  | Valenzuela |  9  |
+| Claudia |  Polanía   |  9  |
