@@ -10,7 +10,7 @@
 
 ###### Cabecera 6
 
-Esto es texto plano.
+Esto es texto plano. Esto es tecto en *cursiva*. Esto es texto en **negrita**. Esto es texto en ***cursiva y en negrita***.
 
 Puedo poner código en línea, `python3 codigo.py`, y código en bloque:
 
@@ -56,6 +56,15 @@ También se pueden crear tablas:
 
 Markdown tiene soporte para citas:
 
+
 > En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no a mucho tiempo que vivía un idalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. 
 
+Se pueden crear líneas horizontales:
+
 ---
+
+También se pueden crear "checklists":
+
+- [x] Patatas.
+- [ ] Ensalada.
+- [x] Pasta.
