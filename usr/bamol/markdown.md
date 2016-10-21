@@ -63,3 +63,8 @@ Se pueden crear también líneas horizontales:
 ---
 
 También se pueden crear *checklist*:
+
+ - [x]
+ - [ ]
+ - [ ]
+ 
