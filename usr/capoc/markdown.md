@@ -45,3 +45,5 @@ Listas anidadas:
 
 Podemos crear enlaces a otras [páginas web como Google](http://google.com). También se enlaza directamente con la URL:
 http://clubnauticosevilla.com/el-nautico-es-de-todos/
+
+![Icono de GitHub](https://www.google.es/search?q=INAKIEGUIA1998&client=ubuntu&hs=8PG&channel=fs&source=lnms&tbm=isch&sa=X&ved=0ahUKEwipreGx7-vPAhVKFMAKHfHDBwcQ_AUICSgC&biw=1023&bih=621#imgrc=ergSZWVIQeBNdM%3A)
