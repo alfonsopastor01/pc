@@ -10,7 +10,7 @@
 
 ###### cabecera 6
 
-Esto es texto plano.
+Esto es texto plano. Esto es texto en *cursiva*. Esto es texto en **negrita**. Esto es texto en ***cursiva y en negrita***.
 
 Puedo poner código en línea, `python3 codigo.py`, y código en bloque:
 
@@ -45,7 +45,7 @@ Listas animadas:
 
 Puedes crear enlaces a otras [páginas web como Google](http://google.com). También se enlaza directamente con la URL: http://www.marca.com/
 
-'[Icono de Github](https://github.com/apple-touch-icon.png 'Imagen de GitHub')
+![Icono de Github](https://github.com/apple-touch-icon.png 'Imagen de GitHub')
 
 También se pueden crear tablas:
 
@@ -57,4 +57,14 @@ También se pueden crear tablas:
 
 Markdown tiene soporte para citas:
 
-> En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un astillero, adarga antigua, rociín y galgo corredor.
+> En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo de astillero, adarga antigua, rocín flaco y galgo corredor.
+
+Se pueden crear también lineas horizontales:
+
+---
+
+También se pueden crear *checklists*:
+
+-[x] Patatas.
+-[ ] Ensaladas.
+-[ ] Pasta.
