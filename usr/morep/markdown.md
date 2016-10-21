@@ -46,3 +46,9 @@ Lista anidadas:
 Podemos crear enlaces a otras [pagínas web como Google](http://www.google.com). También se enlaza directamente con la URL: http://www.marca.com/.
 
 ![Icono de Github](https://github.com/apple-touch-icon.png 'Imagen de GitHub')
+
+También se pueden crear tablas:
+
+| Nombre | Apellidos | Nota|
+|--------|-----------|-----|
+| Paula  |  Montiel  |  9  |
