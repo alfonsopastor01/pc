@@ -50,7 +50,7 @@ Podemos crear enlaces a otras [páginas web con Google](http://google.com). Tamb
 También se pueden crear tablas:
 
 | Nombre | Apellidos | Nota |
-|........|...........| .....|
+|-------- |---------- | -----|
 | Claudia | Pérez | 10 |
 | Rousse | Órtiz | 10 |
 
