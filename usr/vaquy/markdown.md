@@ -44,3 +44,9 @@ Listas anidadas:
 Podemos crear enlaces a otras [páginas web como google](http://google.com). También se enlaza directament con la URL: http://www.marca.com/.
 
 ![FOTAKA OP](https://i.ytimg.com/vi/tEaj19LJEoc/maxresdefault.jpg 'Te hago carrito por un sobresaliente')
+
+También se pueden crear tablas: 
+
+| Nombre | Apellidos | Nota |
+| ------ | --------- | ---- |
+| Yeico  | Valenzuela | 10 |
