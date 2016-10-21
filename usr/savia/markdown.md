@@ -53,3 +53,7 @@ También se pueden crear tablas:
 |--------|-----------|------|
 | Álvaro | Sánchez   |  10  |
 | Joel   | León      |  9   |
+
+Markdown tiene soporte para citas:
+
+> En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no a mucho tiempo que vivía un idalgo de los de lanza en astillero, adarga antigua, rociín y galgo corredor. 
