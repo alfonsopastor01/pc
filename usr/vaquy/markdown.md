@@ -42,3 +42,5 @@ Listas anidadas:
     3. Yeico.
 
 Podemos crear enlaces a otras [páginas web como google](http://google.com). También se enlaza directament con la URL: http://www.marca.com/.
+
+![FOTAKA OP](file:///home/usuario/Escritorio/yosuadelasvegas.jpg'LA HISTORIA DE UNA ESPADA SE ESCRIBE CON SANGRE')
