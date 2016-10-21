@@ -47,3 +47,10 @@ Listas anidadas:
 Podemos crear enlaces a otras [páginas web como google](http://google.com).  También se enlaza con la URL: http://www.marca.com/ 
     
 ![Imágen toreo](http://3.bp.blogspot.com/-HvJgDaYLwUU/UdVlGFCAUnI/AAAAAAAAAbg/3Ynpbykfd4Q/s500/1372867763_extras_portadilla_0.jpg)
+
+También se pueden crear tablas: 
+
+| Nombre | Apellido | Nota |
+| José | | María | 10 |
+| Andrés | Gamino | 0 |
+
