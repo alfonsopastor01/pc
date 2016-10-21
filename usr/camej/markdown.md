@@ -52,6 +52,6 @@ También se pueden crear tablas:
 
 | Nombre | Apellido | Nota |
 |--------|----------|------|
-| José | | María | 10 |
-| Andrés | Gamino | 0 |
+| José   | María    | 10   | 
+| Andrés | Gamino   | 0    |
 
