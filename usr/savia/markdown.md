@@ -56,4 +56,6 @@ También se pueden crear tablas:
 
 Markdown tiene soporte para citas:
 
-> En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no a mucho tiempo que vivía un idalgo de los de lanza en astillero, adarga antigua, rociín y galgo corredor. 
+> En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no a mucho tiempo que vivía un idalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor. 
+
+---
