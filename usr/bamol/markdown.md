@@ -54,3 +54,7 @@ También se pueden crear listas:
 | Lucía | Barroso | 10 |
 | Ana | García | 8.5 |
 | Ana | Rodriguez | 9 |
+
+Markdown tiene soporte para citas:
+
+> En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivia un hidalgo de los de lanza astillero, adarga antigua, rocín y galgo corredor.
