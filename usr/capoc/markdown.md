@@ -12,7 +12,7 @@
 
 Esto es texto plano.
 
-Puedo poner código en línea, `python3 codigo.py` , y código en bloque:
+Puedo poner código en línea, `python3 codigo.py` , y código en bloque: 
 
 ```python
 print('Hola mundo')
@@ -41,4 +41,7 @@ Listas anidadas:
 3. Claudia.
     1. Yasmina.
     2. Bea.
-    3. Rafael.
+    3. Rafael. 
+
+Podemos crear enlaces a otras [páginas web como Google](http://google.com). También se enlaza directamente con la URL:
+http://clubnauticosevilla.com/el-nautico-es-de-todos/
