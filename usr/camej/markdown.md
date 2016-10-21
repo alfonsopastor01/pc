@@ -55,3 +55,5 @@ También se pueden crear tablas:
 | José   | María    | 10   | 
 | Andrés | Gamino   | 0    |
 
+También tiene soporte para citas:
+> Me paso toda la semana fumando en el barrio, esperando que llegue el domingo para ver al campeón, alfin va a decir la verdad el que escribe en los diarios, que la banda mas loca y temida es la de nervión, volver a ser campeón es lo que más quiero, y que esta grada vuelva a festejar, juntos de nuevo, verte en el Sánchez Pizjuán todos los domingos, a cualqier campo yo voy a viajar, donde tu jueges te voy animar, todos nuestros hijos se pondrán a llorar, otra vez campeón quieren ver a papa.
