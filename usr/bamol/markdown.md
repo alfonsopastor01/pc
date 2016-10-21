@@ -58,3 +58,5 @@ También se pueden crear listas:
 Markdown tiene soporte para citas:
 
 > En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivia un hidalgo de los de lanza astillero, adarga antigua, rocín y galgo corredor.
+
+---
