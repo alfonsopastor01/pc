@@ -5,8 +5,7 @@
 ##### Cabecera 5
 ###### Cabecera 6
 
-
-
+Esto es texto plano. Esto es texto en *cursiva*. Esto es texto en negrita **negrita**. Esto es texto en ***cursiva y en negrita***.
 
 
 
@@ -59,4 +58,8 @@ Markdown tiene soporte para citas:
 
 > En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivia un hidalgo de los de lanza astillero, adarga antigua, rocín y galgo corredor.
 
+Se pueden crear también líneas horizontales:
+
 ---
+
+También se pueden crear *checklist*:
