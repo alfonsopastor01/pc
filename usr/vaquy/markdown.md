@@ -50,3 +50,15 @@ También se pueden crear tablas:
 | Nombre | Apellidos | Nota |
 | ------ | --------- | ---- |
 | Yeico  | Valenzuela | 10 |
+
+Markdown tiene soporte para citas:
+
+> En un lugar de la Mancha de cuyo nombre no quiero acordarme, no ha mucha tiempo que vivía un hidalgo, astillero, adarga antigua, rocín flaco y galgo corredor.
+
+Se pueden crear líneas horizontales
+
+---
+
+
+
+
