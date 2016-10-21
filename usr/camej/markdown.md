@@ -51,6 +51,7 @@ Podemos crear enlaces a otras [páginas web como google](http://google.com).  Ta
 También se pueden crear tablas: 
 
 | Nombre | Apellido | Nota |
+|--------|----------|------|
 | José | | María | 10 |
 | Andrés | Gamino | 0 |
 
