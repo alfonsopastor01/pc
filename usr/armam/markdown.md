@@ -54,3 +54,7 @@ También se pueden crear tablas:
 | Paula  | Montiel   |  9   |
 | Yeico  | Valenzuela | 10  |
 | Claudia | Polania  |  10  |
+
+Markdown tiene soporte para citas:
+
+> En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un astillero, adarga antigua, rociín y galgo corredor.
