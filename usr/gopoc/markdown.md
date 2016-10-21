@@ -55,3 +55,7 @@ También se pueden crear tablas:
 |Paula | Montiel  | 9  |
 | Yeico| Valenzuela| 10|
 | Claudia| Polanía| 10|
+
+Markdown tiene soporte también para citas:
+
+> En un lugar de la Mancha, de cuyo nombre no quiero acordarme,no ha mucho tiempo que vivia un hidalgo de los de lanza en astillero, adarga antigua, rocín flaco y galgo corredor.
