@@ -41,5 +41,5 @@ Lista anidadas:
 3. Alba.
 
     1. Ana.
-    2. Alfonso
-    3. Yeico
+    2. Alfonso.
+    3. Yeico.
