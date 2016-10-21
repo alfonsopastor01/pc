@@ -45,4 +45,4 @@
 
 Podemos crear enlances a otras [páginas web como Google](http://google.com). También se enlanza directamente con la URL: http://www.marca.com/.
 
-![Icono de Github](https://github.com/apple-touch-icon.png `Imagen de Github`)
+![Icono de Github](https://github.com/apple-touch-icon.png 'Imagen de Github')
