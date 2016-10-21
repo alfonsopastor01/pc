@@ -54,3 +54,7 @@ También se pueden crear tablas:
 | Paula  | Montiel   | 9    |
 | Ana    | Rodríguez | 10   |
 | Alba   | Cantero   | 8    |
+
+Markdown tiene soporto para citas:
+
+> En un lugar de la Mancha,de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo astiller, adarga antigua, rociin y galgo corredor.
