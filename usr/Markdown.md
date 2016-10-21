@@ -10,7 +10,7 @@
 
 
 
-
+Esto es un texto plano. Esto es texto en *cursiva*. Esto es texto en **negrita**. Esto es texto en ***cursiva y en negrita***.
 
 
 
@@ -58,3 +58,9 @@ También se pueden crear tablas:
 Markdown tiene soporte para citas:
 
 > En un lugar de la Mancha,de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo astiller, adarga antigua, rocin y galgo corredor.
+
+Se pueden crear líneas horizontales:
+
+---
+
+ También se pueden crear *checklists*:
