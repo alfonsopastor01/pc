@@ -54,3 +54,6 @@ También se pueden crear tablas:
 | Claudia | Pérez | 10 |
 | Rousse | Órtiz | 10 |
 
+Markdown tiene soporte para citas:
+
+> En un lugar de la Mancha, de cuyo nombre no quiero acordarme, no a mucho tiempo que vivía un astillero, adarga antigua, rociín y galgo corredor.
