@@ -42,3 +42,6 @@ Listas anidadas:
     1. Ana.
     2. Alfonso.
     3. Yeico.
+
+Podemos crear enlaces a otras [paginas web como Google](http://google.com). También se enlaza directamente con la URL:
+http://www.marca.com/.
