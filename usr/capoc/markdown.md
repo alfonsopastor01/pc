@@ -47,3 +47,14 @@ Podemos crear enlaces a otras [páginas web como Google](http://google.com). Tam
 http://clubnauticosevilla.com/el-nautico-es-de-todos/
 
 ![Icono de GitHub](https://github.com/apple-touch-icon.png 'Imagen de GitHub')
+
+
+También se pueden crear tablas:
+
+| Nombre | Apellidos | Nota |
+|--------|-----------|------|
+| Paula | Montiel | 9       |
+| Yeico | Valenzuela | 10   |
+| Claudia | Polanía | 10    |
+
+
