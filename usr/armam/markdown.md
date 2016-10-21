@@ -45,4 +45,12 @@ Listas animadas:
 
 Puedes crear enlaces a otras [páginas web como Google](http://google.com). También se enlaza directamente con la URL: http://www.marca.com/
 
-'[Icono de Github](https://github.com/apple-touch-icon.png 'Imagen de Github')
+'[Icono de Github](https://github.com/apple-touch-icon.png 'Imagen de GitHub')
+
+También se pueden crear tablas:
+
+| Nombre | Apellidos | Nota |
+|--------|-----------|------|
+| Paula  | Montiel   |  9   |
+| Yeico  | Valenzuela | 10  |
+| Claudia | Polania  |  10  |
