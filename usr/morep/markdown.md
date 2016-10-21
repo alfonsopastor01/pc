@@ -43,6 +43,6 @@ Lista anidadas:
     2. Alfonso.
     3. Yeiko.
     
-Podemos crear enlaces a otras [pagínas web como Google](http://google.com). También se enlaza directamente con la URL: http://marca.com/.
+Podemos crear enlaces a otras [pagínas web como Google](http://www.google.com). También se enlaza directamente con la URL: http://www.marca.com/.
 
     
