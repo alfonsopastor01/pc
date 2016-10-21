@@ -46,4 +46,4 @@ Listas anidadas:
 Podemos crear enlaces a otras [páginas web como Google](http://google.com). También se enlaza directamente con la URL:
 http://clubnauticosevilla.com/el-nautico-es-de-todos/
 
-![Icono de GitHub](https:github.com/apple-touch-icon.png 'Imagen de GitHub')
+![Icono de GitHub](https://github.com/apple-touch-icon.png 'Imagen de GitHub')
