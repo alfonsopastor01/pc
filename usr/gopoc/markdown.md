@@ -65,3 +65,7 @@ Se puede  crear lineas horizontales
 ---
 
 También se pueden crear *checklists*:
+
+- [x] Patatas.
+- [ ] Ensalada.
+- [x] Pasta.
