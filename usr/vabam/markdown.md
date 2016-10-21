@@ -43,5 +43,6 @@ Listas anidadas:
     2. Alfonso.
     3. Yeico.
 
-Podemos crear enlaces a otras [paginas web como Google](http://google.com). También se enlaza directamente con la URL:
-http://www.marca.com/.
+Podemos crear enlaces a otras [paginas web como Google](http://google.com). También se enlaza directamente con la URL: http://www.marca.com/.
+
+![Icono de GitHub](Http://github.com//github.com/apple-touch-icon.png 'Imagen de GitHub')
