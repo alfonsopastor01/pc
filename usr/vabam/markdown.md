@@ -45,4 +45,4 @@ Listas anidadas:
 
 Podemos crear enlaces a otras [paginas web como Google](http://google.com). También se enlaza directamente con la URL: http://www.marca.com/.
 
-![Icono de GitHub](Https://github.com/apple-touch-icon.png 'Imagen de GitHub')
+![Icono de GitHub](https://github.com/apple-touch-icon.png 'Imagen de GitHub')
