@@ -27,6 +27,7 @@ Lista no ordenada:
 * Macarrones
 
 Lista ordenada:
+
 1. Ángel.
 2. Paula.
 3. Iván.
