@@ -43,4 +43,4 @@ Listas anidadas:
 
 Podemos crear enlaces a otras [páginas web como google](http://google.com). También se enlaza directament con la URL: http://www.marca.com/.
 
-![FOTAKA OP](file:///home/usuario/Escritorio/yosuadelasvegas.jpg'LA HISTORIA DE UNA ESPADA SE ESCRIBE CON SANGRE')
+![FOTAKA OP](https://i.ytimg.com/vi/tEaj19LJEoc/maxresdefault.jpg'Te hago carrito a cambio de un sobresaliente?')
