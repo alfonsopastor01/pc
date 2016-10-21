@@ -44,5 +44,5 @@ Listas anidadas:
     2. Alfonso.
     3. Antonio.
     
-Podemos crear enlaces a otras [páginas web como google](htpp://google.com).  También se enlaza con la URL: http://www.marca.com/ 
+Podemos crear enlaces a otras [páginas web como google](http://google.com).  También se enlaza con la URL: http://www.marca.com/ 
     
