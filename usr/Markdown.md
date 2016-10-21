@@ -55,7 +55,7 @@ También se pueden crear tablas:
 | Ana    | Rodríguez | 10   |
 | Alba   | Cantero   | 8    |
 
-Markdown tiene soporte para citas:
+Markdown tiene soporte para citas: ]
 
 > En un lugar de la Mancha,de cuyo nombre no quiero acordarme, no ha mucho tiempo que vivía un hidalgo astiller, adarga antigua, rocin y galgo corredor.
 
@@ -64,3 +64,9 @@ Se pueden crear líneas horizontales:
 ---
 
  También se pueden crear *checklists*:
+ 
+ - [x] 
+ - [ ]
+ - [ ]
+ - [ ] 
+ 
